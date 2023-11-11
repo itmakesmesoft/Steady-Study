@@ -21,7 +21,7 @@
 
 ## Study Report
 - 주, 월간 목표와 스터디 참여 기록을 보관합니다.
-- [Weekend's Report](./Weekend's%20Report.md)
+- [Weekend's Report](./1학기/Weekend's%20Report.md)
 
 </br>
 
